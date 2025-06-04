@@ -1,4 +1,4 @@
-# Advanced Java Programming – Final Project
+# Advanced Java Programming – Assignments
 
 This repository contains my final solution for the "Advanced Programming in Java" course.
 
