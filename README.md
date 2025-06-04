@@ -1,9 +1,9 @@
 # Advanced Java Programming – Assignments
 
 This repository contains my final solution for the "Advanced Programming in Java" course.
-
+![Final Grade](https://img.shields.io/badge/grade-95-brightgreen.svg)
+![SEMESTER](https://img.shields.io/badge/semester-2024B-brightgreen.svg)
 📘 **Course:** Advanced Java Programming  
-🎓 **Final Grade:** 100  
 📅 **Semester:** 2024B
 
 ## Description
